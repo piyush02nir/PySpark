@@ -1,0 +1,10 @@
+name,age,experience,salary
+alpha,45,25,30000
+beta,35,15,25000
+gamma,25,5,20000
+delta,29,3,20000
+epsilon,21,2,15000
+zeta,23,1,18000
+eta,,,40000
+,34,10,38000
+,36,,
